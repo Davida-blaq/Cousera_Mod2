@@ -32,3 +32,28 @@ h2{ text-align: center;
         border-radius: 10px;
         padding: 10px; 
 }
+@media-screen (min-width: 992px) and (max-width: 1199px){
+    .chicken{
+        border: black 2px solid;
+          background-color: grey;
+          width: 750px; 
+          margin: 25px;
+          border-radius: 10px;  
+          padding: 10px;  
+    }
+    .beef{
+        border: black 2px solid;
+          background-color: grey;
+          width: 750px; 
+          margin: 25px;
+          border-radius: 10px;  
+          padding: 10px;  
+    }
+    .sushi{
+        border: black 2px solid;
+          background-color: grey;
+          width: 100% ;
+          margin: 25px;
+          border-radius: 10px;  
+          padding: 10px;  
+    }
