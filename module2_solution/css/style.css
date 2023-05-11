@@ -8,15 +8,18 @@ h1{ color: black;
 .chicken{ border: black 2px solid;
           background-color: grey;
           width: 400px; 
-          margin: 15px;  
+          margin: 15px;
+          border-radius: 10px;  
 }
 .beef{ border: black 2px solid;
        background-color: grey;
        width: 400px; 
        margin: 15px; 
+       border-radius: 10px; 
 }
 .sushi{ border: black 2px solid;
         background-color: grey;
         width: 400px;
         margin: 15px;
+        border-radius: 10px;
 }
