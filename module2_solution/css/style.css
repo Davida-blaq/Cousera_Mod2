@@ -1,5 +1,14 @@
+body{ font-family:  "Lucida Console", "Courier New", monospace; }
 h1{ color: black;
-    font-family:  "Lucida Console", "Courier New", monospace;
     text-align: center;
     margin-top: 20px;
+}
+.chicken{ border: black 2px solid;
+          background-color: grey;
+}
+.beef{ border: black 2px solid;
+       background-color: grey;
+}
+.sushi{ border: black 2px solid;
+        background-color: grey;
 }
