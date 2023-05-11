@@ -3,6 +3,8 @@ h1{ color: black;
     text-align: center;
     margin-top: 20px;
 }
+.all{ display: flex;
+}    
 .chicken{ border: black 2px solid;
           background-color: grey;
           width: 400px;  
