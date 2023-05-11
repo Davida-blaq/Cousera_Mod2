@@ -5,10 +5,13 @@ h1{ color: black;
 }
 .chicken{ border: black 2px solid;
           background-color: grey;
+          width: 400px;  
 }
 .beef{ border: black 2px solid;
        background-color: grey;
+       width: 400px; 
 }
 .sushi{ border: black 2px solid;
         background-color: grey;
+        width: 400px;
 }
