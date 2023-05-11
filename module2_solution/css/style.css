@@ -7,13 +7,16 @@ h1{ color: black;
 }    
 .chicken{ border: black 2px solid;
           background-color: grey;
-          width: 400px;  
+          width: 400px; 
+          margin: 15px;  
 }
 .beef{ border: black 2px solid;
        background-color: grey;
        width: 400px; 
+       margin: 15px; 
 }
 .sushi{ border: black 2px solid;
         background-color: grey;
         width: 400px;
+        margin: 15px;
 }
