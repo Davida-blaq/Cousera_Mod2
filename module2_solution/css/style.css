@@ -4,7 +4,9 @@ h1{ color: black;
     margin-top: 20px;
 }
 h2{ text-align: left;
-    background-color: crimsone;
+    position: absolute;
+    left:0px;
+    background-color: orange;
     border:black 1px solid;
 }    
 .all{ display: flex;
@@ -13,21 +15,21 @@ h2{ text-align: left;
 .chicken{ border: black 2px solid;
           background-color: grey;
           width: 450px; 
-          margin: 15px;
+          margin: 25px;
           border-radius: 10px;  
           padding: 10px;  
 }
 .beef{ border: black 2px solid;
        background-color: grey;
        width: 450px; 
-       margin: 15px; 
+       margin: 25px; 
        border-radius: 10px; 
        padding: 10px; 
 }
 .sushi{ border: black 2px solid;
         background-color: grey;
         width: 450px;
-        margin: 15px;
+        margin: 25px;
         border-radius: 10px;
         padding: 10px; 
 }
